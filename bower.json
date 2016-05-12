@@ -1,0 +1,25 @@
+{
+	"name": "crias",
+	"version": "0.0.1",
+	"description": "Final project of web engineering class",
+	"dependencies": {
+		
+		"materialize": "~0.96.1",
+    	"angular-materialize": "*",
+		
+		"angular": "~1.5",
+		"angular-resource": "~1.5",
+		"angular-mocks": "~1.5",
+		"angular-cookies": "~1.5",
+		"angular-animate": "~1.5",
+		"angular-touch": "~1.5",
+		"angular-sanitize": "~1.5",
+		"angular-ui-utils": "~0.1.1",
+		"angular-ui-router": "~0.2.10",
+		"jquery": "~2.1.3"
+	},
+	"resolutions": {
+    "angular": "1.2.28",
+    "jquery": "2.1.3"
+  }
+}
